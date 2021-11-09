@@ -1,0 +1,6 @@
+1) create connection with our server(inside the main function)
+2) create shell function(wait for the incoming command and iterate over cetrain options)
+3) automatically start program when machine is rebooted
+4) start/spawn programs
+5) navigate through different directory
+6) implement the keylogger to our backdoor
