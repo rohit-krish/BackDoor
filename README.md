@@ -8,6 +8,7 @@
 #### You have to make sure that the victim should be using windows in order to run the program and the attacker have to be in a linux environment
 
 
+## backdoor.C
 
 ### * compile the backdoor.c file in windows os (if you want)
 ### if you encounder any error like the following while compiling with gcc compiler
@@ -42,4 +43,9 @@
   i686-w64-mingw32-gcc -o backdoor.exe backdoor.c -lwininet -lwsock32
   ```
  * here -lwininet and -lwsock32 are the libraries that we are used extra that linux don't have in default
+
+## server.c
+- you can simply compile this file in any linux os
+- it only gonna work for linux os because some libraries used in this file is only gonna have in linux
+- i think windows c language SDK have this like varients , if you want to compile it in windows you have to reserch about it..
 
