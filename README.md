@@ -2,10 +2,10 @@
 # Hi, I'm ROHIDH! 👋
 # Trojan BackDoor
 
-#### It is a C program to make possible to have a reverse shell connection to another pc by just executing the backdoor.exe[provided in the repo] in windows , you can connect the pc by running server.o file in any linux os
+### It is a C program to make possible to have a reverse shell connection to another pc by just executing the backdoor.exe[provided in the repo] in windows , you can connect the pc by running server.o file in any linux os
 
 
-#### You have to make sure that the victim should be using windows in order to run the program and the attacker have to be in a linux environment
+### You have to make sure that the victim should be using windows in order to run the program and the attacker have to be in a linux environment
 
 
 ## backdoor.c
