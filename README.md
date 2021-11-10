@@ -8,7 +8,7 @@
 #### You have to make sure that the victim should be using windows in order to run the program and the attacker have to be in a linux environment
 
 
-## backdoor.C
+## backdoor.c
 
 ### * compile the backdoor.c file in windows os (if you want)
 ### if you encounder any error like the following while compiling with gcc compiler
