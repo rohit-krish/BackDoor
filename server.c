@@ -1,8 +1,3 @@
-
-// you can simply compile this file in any linux os
-// it only gonna work for linux os because some libraries used in this file is only gonna have in linux
-// i think windows c language SDK have this like varients , if you want to compile it in windows you have to reserch about it..
-
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/socket.h>
