@@ -1,5 +1,5 @@
 
-# Hi, I'm ROHIDH! 👋
+# Hi, I'm ROHIT! 👋
 # Trojan BackDoor
 
 ### It is a C program to make possible to have a reverse shell connection to another pc by just executing the backdoor.exe[provided in the repo] in windows , you can connect the pc by running server.o file in any linux os[i compiled it in debian based os]
